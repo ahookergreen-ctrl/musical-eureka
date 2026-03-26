@@ -1,0 +1,18 @@
+lib/
+  main.dart
+  screens/
+    auth/
+      login_screen.dart
+      register_screen.dart
+    slots/
+      slots_game_screen.dart
+      slot_details_screen.dart
+    payment/
+      payment_screen.dart
+      payment_success_screen.dart
+    wallet/
+      wallet_screen.dart
+      transaction_history_screen.dart
+    chat/
+      chat_screen.dart
+      chat_detail_screen.dart
